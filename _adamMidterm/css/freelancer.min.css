@@ -4,6 +4,10 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/master/LICENSE)
  */
 
+.img-fluid mb-5 d-block mx-auto {
+height: 50px;
+}
+
 body {
   font-family: Lato
 }
@@ -39,15 +43,15 @@ hr.star-light {
 
 hr.star-light:after {
   color: #fff;
-  background-color: #18bc9c
+  background-color: #14A3CC
 }
 
 hr.star-dark {
-  border-color: #2c3e50
+  border-color: #B21243
 }
 
 hr.star-dark:after {
-  color: #2c3e50;
+  color: #B21243;
   background-color: #fff
 }
 
@@ -114,7 +118,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #18bc9c
+  color: #14A3CC
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
@@ -122,7 +126,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #18bc9c
+  color: #14A3CC
 }
 
 #mainNav .navbar-toggler {
@@ -149,11 +153,11 @@ section h2 {
   }
   #mainNav .navbar-nav>li.nav-item>a.nav-link.active {
     color: #fff;
-    background: #18bc9c
+    background: #14A3CC
   }
   #mainNav .navbar-nav>li.nav-item>a.nav-link.active:active, #mainNav .navbar-nav>li.nav-item>a.nav-link.active:focus, #mainNav .navbar-nav>li.nav-item>a.nav-link.active:hover {
     color: #fff;
-    background: #18bc9c
+    background: #14A3CC
   }
   #mainNav.navbar-shrink {
     padding-top: .5rem;
@@ -311,7 +315,7 @@ header.masthead h2 {
 }
 
 .floating-label-form-group-with-focus label {
-  color: #18bc9c
+  color: #14A3CC
 }
 
 form .row:first-child .floating-label-form-group {
@@ -321,7 +325,7 @@ form .row:first-child .floating-label-form-group {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #2c3e50;
+  background-color: #B21243;
   color: #fff
 }
 
@@ -330,11 +334,11 @@ form .row:first-child .floating-label-form-group {
 }
 
 a {
-  color: #18bc9c
+  color: #14A3CC
 }
 
 a:active, a:focus, a:hover {
-  color: #128f76
+  color: #14A3CC
 }
 
 .btn {
@@ -342,34 +346,34 @@ a:active, a:focus, a:hover {
 }
 
 .bg-primary {
-  background-color: #18bc9c!important
+  background-color: #14A3CC!important
 }
 
 .bg-secondary {
-  background-color: #2c3e50!important
+  background-color: #B21243!important
 }
 
 .text-primary {
-  color: #18bc9c!important
+  color: #14A3CC!important
 }
 
 .text-secondary {
-  color: #2c3e50!important
+  color: #B21243!important
 }
 
 .btn-primary {
-  background-color: #18bc9c;
-  border-color: #18bc9c
+  background-color: #14A3CC;
+  border-color: #14A3CC
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: #128f76;
-  border-color: #128f76
+  background-color: #14A3CC;
+  border-color: #14A3CC
 }
 
 .btn-secondary {
-  background-color: #2c3e50;
-  border-color: #2c3e50
+  background-color: #B21243;
+  border-color: #B21243
 }
 
 .btn-secondary:active, .btn-secondary:focus, .btn-secondary:hover {
